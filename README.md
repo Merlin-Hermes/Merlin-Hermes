@@ -6,9 +6,9 @@
 
 # Projetos
 
-* [Xadrez](https://github.com/Merlin-Hermes/Projeto-de-Xadrez)
-* [DsList](https://github.com/Merlin-Hermes/DsList)
-* [KATA - BrowlingGame](https://github.com/Merlin-Hermes/BowlingGame)
+* [Xadrez](https://github.com/Tiago-Balbino/Projeto-de-Xadrez)
+* [DsList](https://github.com/Tiago-Balbino/DsList)
+* [KATA - BrowlingGame](https://github.com/Tiago-Balbino/BowlingGame)
 
 
 -------------------------------------------------
