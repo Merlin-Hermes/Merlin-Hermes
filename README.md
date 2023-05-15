@@ -8,6 +8,7 @@
 
 * [Xadrez](https://github.com/Merlin-Hermes/Projeto-de-Xadrez)
 * [DsList](https://github.com/Merlin-Hermes/DsList)
+* [KATA - BrowlingGame](https://github.com/Merlin-Hermes/BowlingGame)
 
 
 -------------------------------------------------
