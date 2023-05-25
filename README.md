@@ -6,12 +6,10 @@
 
 # Projetos
 
-* [Xadrez](https://github.com/Tiago-Balbino/Projeto-de-Xadrez)
-* [DsList](https://github.com/Tiago-Balbino/DsList)
-* [KATA - BrowlingGame](https://github.com/Tiago-Balbino/BowlingGame)
-* [Boliche](https://github.com/Tiago-Balbino/Boliche)
-* [Library](https://github.com/Tiago-Balbino/Library)
-
+* [Library](https://github.com/Tiago-Balbino/Library) Data: 25/05/2023
+* [Boliche](https://github.com/Tiago-Balbino/Boliche) Data: 17/05/2023
+* [KATA - BrowlingGame](https://github.com/Tiago-Balbino/BowlingGame) Data: 16/05/2023
+* [Xadrez](https://github.com/Tiago-Balbino/Projeto-de-Xadrez) Data: 12/04/2022
 
 -------------------------------------------------
 
