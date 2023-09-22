@@ -19,6 +19,9 @@
 
 * Java
 * Spring Boot
+* PHP
+* Laravel
+* ASPNET MVC
 
 ## Desenvolvimento frontEnd: 
 
@@ -32,12 +35,16 @@
 * H2
 * Oracle
 * Postgres
+* MySql
 
 ## Ferramentas para desenvolvimento: 
 
 * IntelliJ IDEA
 * DBeaver
 * Postman
+* PhpStorm
+* Visual Studio
+* Docker
 
 -------------------------------------------------
 
