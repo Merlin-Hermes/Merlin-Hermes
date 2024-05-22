@@ -1,6 +1,6 @@
 # Seja Bem Vindo !!! 🖥🖱
 
-> Sou um desenvolvedor em busca de aprimorar meu conhecimento teórico e colocá-lo em prática. Viso sempre me aperfeiçoar e a ideia central deste portfólio é mostrar meu progresso nesta área. No futuro, espero adicionar uma página somente com recomendações e ensinamentos que adquiri ao enfrentar desafios. Abaixo, segue uma lista com meus projetos que estão disponíveis no GitHub.
+> Sou um desenvolvedor dedicado à constante evolução e aprimoramento de minhas habilidades. Este portfólio serve como um registro do meu progresso nesta jornada, demonstrando as minhas capacidades e experiências adquiridas. No futuro, pretendo adicionar uma seção dedicada a recomendações e ensinamentos que obtive ao enfrentar desafios, com o objetivo de compartilhar conhecimentos e auxiliar outros desenvolvedores em suas trajetórias..
 
 --------------------------------------------------
 
@@ -17,11 +17,11 @@
 
 ## Desenvolvimento backEnd:
 
-* Java
-* Spring Boot
-* PHP
+* Java (Spring Boot)
+* PHP (PHP Slim)
 * Laravel
 * ASPNET MVC
+* Python (FastApi)
 
 ## Desenvolvimento frontEnd: 
 
@@ -45,6 +45,7 @@
 * PhpStorm
 * Visual Studio
 * Docker
+* Insominia
 
 -------------------------------------------------
 
